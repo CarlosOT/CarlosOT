@@ -1,4 +1,4 @@
-<p align="left">🌍😌 Just having FUN taking it one step at a time 🚀💻</p>
+<p align="center">🌍😌 Just having FUN taking it one step at a time 🚀💻</p>
 
 ###
 
